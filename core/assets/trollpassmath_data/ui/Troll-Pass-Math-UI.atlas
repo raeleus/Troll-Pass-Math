@@ -1,0 +1,84 @@
+
+Troll-Pass-Math-UI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: false
+  xy: 468, 141
+  size: 255, 87
+  split: 0, 0, 0, 0
+  orig: 255, 87
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 468, 52
+  size: 255, 87
+  split: 0, 0, 0, 0
+  pad: 0, 0, 5, 0
+  orig: 255, 87
+  offset: 0, 0
+  index: -1
+button-small
+  rotate: false
+  xy: 166, 12
+  size: 128, 44
+  split: 0, 0, 0, 0
+  orig: 128, 44
+  offset: 0, 0
+  index: -1
+button-small-pressed
+  rotate: false
+  xy: 822, 979
+  size: 128, 44
+  split: 0, 0, 0, 0
+  pad: 0, 0, 1, 0
+  orig: 128, 44
+  offset: 0, 0
+  index: -1
+font-export
+  rotate: false
+  xy: 1, 58
+  size: 465, 491
+  orig: 465, 491
+  offset: 0, 0
+  index: -1
+font-small-export
+  rotate: false
+  xy: 468, 230
+  size: 306, 319
+  orig: 306, 319
+  offset: 0, 0
+  index: -1
+life
+  rotate: false
+  xy: 776, 509
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 551
+  size: 819, 472
+  orig: 819, 472
+  offset: 0, 0
+  index: -1
+textfield
+  rotate: false
+  xy: 1, 1
+  size: 163, 55
+  split: 0, 0, 7, 13
+  pad: 11, 10, 7, 13
+  orig: 163, 55
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 725, 227
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

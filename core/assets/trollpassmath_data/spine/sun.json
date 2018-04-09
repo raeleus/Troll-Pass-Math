@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"qkGOBzkGL+VqMrX3ZuY7QnHrt0E","spine":"3.7.14-beta","width":0,"height":0,"images":"../output/","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"sun","bone":"root","attachment":"sun"}],"skins":{"default":{"sun":{"sun":{"width":167,"height":154}}}},"animations":{"animation":{}}}
